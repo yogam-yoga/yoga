@@ -1,4 +1,4 @@
-![yogam](https://raw.githubusercontent.com/yogam-yoga/yoga/master/images/yogam.png "logo yogam")
+![yogam](https://raw.githubusercontent.com/yogam-yoga/yoga/master/images/yogam_s.png "logo yogam")
 
 # Yoga Techs for Yogam
 
